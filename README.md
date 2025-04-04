@@ -1,9 +1,8 @@
 # HypVI  
 ### A Software Tool for Hyperspectral Data Analysis and Vegetation Indices Computation  
 
-
-
 ---
+
 ### 🌿 Hyperspectral Index Highlights
 
 - **240 VNIR Indices**  
@@ -18,8 +17,8 @@ This tool offers a comprehensive set of functionalities for processing raw hyper
 
 ### 📦 Downloads
 
-- [Download Software](HypVI.zip)
-- [Download Sample Data](Sample20Data.zip)
+- [Download Software (Google Drive)](https://drive.google.com/file/d/1oQrfqMHVaxTidMyq6lKPadRpBvXQ_hRI/view?usp=drive_link)
+- [Download Sample Data (Google Drive)](https://drive.google.com/file/d/1wfT7MheEpiAuOlbnc5Tn7uXl0t5Gajqk/view?usp=drive_link)
 
 ---
 
@@ -43,8 +42,7 @@ Open the extracted software folder and double-click on `app.exe`. This will laun
 ---
 
 ### 3. Data Extraction
-
-**Step 1:**  
+ 
 - Select **Data Extraction** from the software interface.  
 - Select the folder that contains the sample data.  
 - Choose the data type as **VNIR** since the sample data is in VNIR format.  
@@ -55,7 +53,6 @@ Open the extracted software folder and double-click on `app.exe`. This will laun
 
 ### 4. Visualization of Reflectance Curve
 
-**Step 2:**  
 - Click on **Visualization** and select a folder containing hyperspectral images.  
 - Optionally, select a **Region of Interest (ROI)** for analysis.  
 - Run the process by clicking **"Click here to process"**.
@@ -64,7 +61,6 @@ Open the extracted software folder and double-click on `app.exe`. This will laun
 
 ### 5. Computation of Vegetation Indices
 
-**Step 3:**  
 - Click on the **Vegetation Indices** radio button.  
 - Select the appropriate data type for your data.  
 - Choose the folder containing the extracted hyperspectral data.  
